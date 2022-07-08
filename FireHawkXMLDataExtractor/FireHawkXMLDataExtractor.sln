@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FireHawkXMLDataExtractor", "FireHawkXMLDataExtractor\FireHawkXMLDataExtractor.csproj", "{C382E48A-E1C1-4DB7-A748-865DD7A0348A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{02ACE9E7-636D-48C9-B069-A104E4E4CAC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C382E48A-E1C1-4DB7-A748-865DD7A0348A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C382E48A-E1C1-4DB7-A748-865DD7A0348A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C382E48A-E1C1-4DB7-A748-865DD7A0348A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C382E48A-E1C1-4DB7-A748-865DD7A0348A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02ACE9E7-636D-48C9-B069-A104E4E4CAC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02ACE9E7-636D-48C9-B069-A104E4E4CAC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02ACE9E7-636D-48C9-B069-A104E4E4CAC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02ACE9E7-636D-48C9-B069-A104E4E4CAC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67020F48-BC9E-4FD9-B629-2F94117E8274}
+	EndGlobalSection
+EndGlobal

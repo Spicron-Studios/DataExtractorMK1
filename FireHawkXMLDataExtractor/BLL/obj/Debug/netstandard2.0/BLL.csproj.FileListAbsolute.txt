@@ -1,0 +1,9 @@
+C:\Users\jande\source\repos\FireHawkXMLDataExtractor\BLL\bin\Debug\netstandard2.0\BLL.deps.json
+C:\Users\jande\source\repos\FireHawkXMLDataExtractor\BLL\bin\Debug\netstandard2.0\BLL.dll
+C:\Users\jande\source\repos\FireHawkXMLDataExtractor\BLL\bin\Debug\netstandard2.0\BLL.pdb
+C:\Users\jande\source\repos\FireHawkXMLDataExtractor\BLL\obj\Debug\netstandard2.0\BLL.csprojAssemblyReference.cache
+C:\Users\jande\source\repos\FireHawkXMLDataExtractor\BLL\obj\Debug\netstandard2.0\BLL.AssemblyInfoInputs.cache
+C:\Users\jande\source\repos\FireHawkXMLDataExtractor\BLL\obj\Debug\netstandard2.0\BLL.AssemblyInfo.cs
+C:\Users\jande\source\repos\FireHawkXMLDataExtractor\BLL\obj\Debug\netstandard2.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\jande\source\repos\FireHawkXMLDataExtractor\BLL\obj\Debug\netstandard2.0\BLL.dll
+C:\Users\jande\source\repos\FireHawkXMLDataExtractor\BLL\obj\Debug\netstandard2.0\BLL.pdb
